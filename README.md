@@ -102,7 +102,7 @@ Currently, I’m developing my portfolio by working on **real-world projects** w
   <a href="https://x.com/MohammadRi96178">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="LINK_TIKTOK_ANDA">
+  <a href="https://www.tiktok.com/@mohammad.ridho.ca">
     <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 </p>
