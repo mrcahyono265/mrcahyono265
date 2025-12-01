@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Ridho Cahyono</h1>
-<p align="center">Artificial Intellegence | Machine Learning | Internet of Things | Robotics Enthusiast</p>
+<p align="center">Artificial Intelligence | Machine Learning | Internet of Things | Robotics Enthusiast</p>
 
 <p align="center">
   <a href="https://github.com/mrcahyono265"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
@@ -14,17 +14,17 @@
 
 ### About Me
 Hi! I’m Ridho — an Artificial Intelligence, Machine Learning, IoT, and Robotics enthusiast.  
-I develop end-to-end data pipelines, build ML/DL models, and deploy them into real-world applications, including embedded systems, robotics, and IoT-based automation.
+I develop end-to-end data pipelines, build Machine Learning and Deep Learning models, and deploy them into real-world applications, including embedded systems, robotics, and IoT-based automation.
 
 - 💻 **Machine Learning & Deep Learning:** Skilled with Python, TensorFlow, and PyTorch for model training, evaluation, and optimization.  
-- 📊 **Data Skills:** Data Cleaning, EDA, Annotation, and dataset preparation for CV/NLP projects.  
-- 🤖 **IoT & Robotics:** Deploying AI models on microcontrollers, integrating ML with sensors, actuators, and robotic systems.  
+- 📊 **Data Skills:** Data Cleaning, EDA, Annotation, and dataset preparation for Computer Vision and Natural Language Processing projects.  
+- 🤖 **IoT & Robotics:** Deploying AI models on microcontrollers, integrating Machine Learning with sensors, actuators, and robotic systems.  
 - 🎯 **Career Focus:** AI Engineering, Machine Learning Engineering, Computer Vision, and Intelligent Robotics.
 
 ---
 
 ### Featured Project
-
+#### Machine Learning & AI Engineering
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Flower Classification – Transfer Learning (MobileNetV2)](https://github.com/mrcahyono265/xxx) | Achieved 85%+ accuracy on 3-class flower dataset using transfer learning, augmentation, and fine-tuning. Includes TFLite deployment. | TensorFlow, Keras, Pandas, TFLite |
@@ -34,6 +34,13 @@ I develop end-to-end data pipelines, build ML/DL models, and deploy them into re
 | [Irrigation Time-Series Prediction + TFLite](https://github.com/mrcahyono265/xxx) | Built LSTM-based time-series model to predict soil moisture and irrigation actions. Exported to TFLite for embedded deployment. | TensorFlow, Time-Series, TFLite |
 | [Python Mini Project](https://github.com/mrcahyono265/xxx) | Created mini-projects (Tic-Tac-Toe, Hangman, RPS, number guessing) to strengthen algorithmic thinking. | Python |
 
+### Robotics & Internet of Things
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Smart Irrigation System (ESP32 + Cloud IoT)** | Built an automated irrigation system using ESP32, soil moisture & DHT sensors, and cloud integration. Demonstrates practical IoT deployment and ability to convert ML time-series models to TFLite for edge use. | ESP32, MicroPython/C++, Sensors, MQTT/HTTP, TFLite |
+| **Soccerbot – Autonomous Wheeled Robot** | Developed a wheeled soccer robot prototype with motor drivers, PID tuning, and sensor integration. Foundation for future ML-based control systems and computer vision in robotics. | Arduino/ESP32, Motor Drivers, PID Control, Sensors |
+| **Smart Car (Obstacle Avoidance & Line Tracking)** | Designed and implemented a smart robotic car with ultrasonic obstacle avoidance, IR line tracking, and modular firmware supporting future AI enhancements. | Arduino/ESP32, Ultrasonic Sensor, IR Sensor |
+| **Smart Home Automation System** | Built a multi-device smart home system controlling lights, fans, and appliances via ESP32 and mobile interface. Demonstrates embedded control, networking, and cloud connectivity. | ESP32, Relays, Blynk/MQTT, MicroPython |
 ---
 
 ### Tech Stack
@@ -44,7 +51,7 @@ I develop end-to-end data pipelines, build ML/DL models, and deploy them into re
 #### Data Annotation & Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=data%20gretchen&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-36A2EB?style=for-the-badge&logo=Roboflow&logoColor=white)
 
-#### Robotics & Embedded Systems
+#### Robotics & Internet of Things
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32-E65030?style=for-the-badge&logo=espressif&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-2A4944?style=for-the-badge&logo=kicad&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-007FFF?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 #### Workflow & Platforms
