@@ -12,7 +12,7 @@ Building practical technology solutions that create meaningful impact for organi
 
 <img src="https://komarev.com/ghpvc/?username=mrcahyono265&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/mrcahyono265?style=for-the-badge" />
+![Followers](https://img.shields.io/github/followers/mrcahyono265?label=Followers&style=for-the-badge&color=blue)
 
 <img src="https://img.shields.io/github/stars/mrcahyono265?style=for-the-badge" />
 
