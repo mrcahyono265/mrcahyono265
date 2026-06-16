@@ -10,11 +10,21 @@ Building practical technology solutions that create meaningful impact for organi
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mrcahyono265&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
 
-![Followers](https://img.shields.io/github/followers/mrcahyono265?label=Followers&style=for-the-badge&color=blue)
+<a href="https://github.com/mrcahyono265">
+<img src="https://img.shields.io/badge/GitHub-mrcahyono265-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img src="https://img.shields.io/github/stars/mrcahyono265?style=for-the-badge" />
+<a href="https://linkedin.com/in/m-ridho-cahyono">
+<img src="https://img.shields.io/badge/LinkedIn-M.%20Ridho%20Cahyono-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://mridhocahyono.rf.gd">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome" />
+</a>
+
+</p>
 
 </div>
 
