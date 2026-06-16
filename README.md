@@ -10,11 +10,17 @@ Building practical technology solutions that create meaningful impact for organi
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mrcahyono265&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<a href="https://instagram.com/m.ridho.cahyono">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/github/followers/mrcahyono265?style=for-the-badge" />
+<a href="www.linkedin.com/in/mohammad-ridho-cahyono-a89848372">
+<img src="https://img.shields.io/badge/LinkedIn-M.%20Ridho%20Cahyono-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<img src="https://img.shields.io/github/stars/mrcahyono265?style=for-the-badge" />
+<a href="https://mridhocahyono.rf.gd">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome" />
+</a>
 
 </div>
 
@@ -255,30 +261,30 @@ Participated in developing technology-based innovation projects and applied tech
 
 ---
 
-# 🤝 Connect With Me
-
-<div align="center">
-
-### 🌐 Portfolio
-
-https://mridhocahyono.rf.gd
-
-### 💻 GitHub
-
-https://github.com/mrcahyono265
-
-### 💼 LinkedIn
-
-https://linkedin.com/in/m-ridho-cahyono
-
-</div>
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile 🚀
 
 Always open to collaboration, learning opportunities, and technology discussions.
+
+<a href="https://www.instagram.com/mrcahyono265/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/mrcahyono265">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="www.linkedin.com/in/mohammad-ridho-cahyono-a89848372">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:mohammadridhocahyono265@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://mridhocahyono.rf.gd">
+<img src="https://cdn.simpleicons.org/googlechrome" width="48"/>
+</a>
 
 </div>
