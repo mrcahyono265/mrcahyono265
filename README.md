@@ -1,92 +1,284 @@
-<h1 align="center">Hi, I'm Mohammad Ridho Cahyono</h1>
-<p align="center">Artificial Intelligence | Machine Learning | Internet of Things | Robotics Enthusiast</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/mrcahyono265"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
-  <a href="https://www.linkedin.com/in/mohammad-ridho-cahyono-a89848372"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Python-orange?logo=python">
-  <img src="https://img.shields.io/badge/TensorFlow-green?logo=tensorflow">
-  <img src="https://img.shields.io/badge/PyTorch-blue?logo=pytorch">
-  <img src="https://img.shields.io/badge/IoT-green?logo=arduino">
+# Hi 👋, I'm M. Ridho Cahyono
+
+### Full Stack Web Developer • Machine Learning Enthusiast • IoT Explorer
+
+Building practical technology solutions that create meaningful impact for organizations and businesses.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+%7C+TailwindCSS+%7C+AlpineJS;Machine+Learning+Enthusiast;Internet+of+Things+Explorer;Always+Learning+and+Building" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mrcahyono265&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/mrcahyono265?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/mrcahyono265?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+Technology enthusiast with leadership experience in technology and innovation.
+
+I develop digital products through **Web Development**, **Machine Learning**, and **Internet of Things (IoT)** to help organizations and businesses operate more effectively.
+
+### What I Do
+
+* 🌐 Build digital products and business solutions
+* 👨‍💼 Lead technology initiatives and innovation projects
+* 🤖 Explore practical Machine Learning applications
+* 📡 Develop automation and monitoring systems using IoT
+* 🚀 Continuously learn, build, and improve
+
+---
+
+# 🎯 Current Focus
+
+## 🌐 Full Stack Web Development
+
+Developing modern web applications with:
+
+* Laravel
+* PHP
+* MySQL
+* TailwindCSS
+* AlpineJS
+* Git & GitHub
+
+### Focus Areas
+
+* Business Information Systems
+* Internal Management Tools
+* Educational Platforms
+* Digitalization Solutions
+
+---
+
+## 🤖 Machine Learning
+
+Building machine learning solutions and experimenting with real-world datasets.
+
+### Areas Explored
+
+* Computer Vision
+* Classification
+* Regression
+* Clustering
+* Time-Series Forecasting
+
+### Tools
+
+* Python
+* TensorFlow
+* Scikit-Learn
+* Pandas
+* NumPy
+
+---
+
+## 📡 Internet of Things (IoT)
+
+Developing embedded and IoT-based solutions for automation and monitoring.
+
+### Technologies
+
+* ESP32
+* Arduino
+* MQTT
+* Sensors Integration
+* Edge AI Experiments
+
+---
+
+# 💻 Technology Stack
+
+## 🌐 Web Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
 ---
 
-### About Me
-Hi! I’m Ridho — an Artificial Intelligence, Machine Learning, IoT, and Robotics enthusiast.  
-I develop end-to-end data pipelines, build Machine Learning and Deep Learning models, and deploy them into real-world applications, including embedded systems, robotics, and IoT-based automation.
+## 🤖 Machine Learning
 
-- 💻 **Machine Learning & Deep Learning:** Skilled with Python, TensorFlow, and PyTorch for model training, evaluation, and optimization.  
-- 📊 **Data Skills:** Data Cleaning, EDA, Annotation, and dataset preparation for Computer Vision and Natural Language Processing projects.  
-- 🤖 **IoT & Robotics:** Deploying AI models on microcontrollers, integrating Machine Learning with sensors, actuators, and robotic systems.  
-- 🎯 **Career Focus:** AI Engineering, Machine Learning Engineering, Computer Vision, and Intelligent Robotics.
+<p>
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### Featured Project
-#### Machine Learning & AI Engineering
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Flower Classification – Transfer Learning (MobileNetV2)](https://github.com/mrcahyono265/xxx) | Achieved 85%+ accuracy on 3-class flower dataset using transfer learning, augmentation, and fine-tuning. Includes TFLite deployment. | TensorFlow, Keras, Pandas, TFLite |
-| [Hand Gesture Recognition & Detection](https://github.com/mrcahyono265/xxx) | Real-time hand-gesture prediction via webcam. Trained multiple ML models (MLP, GBC, RF, SVC) and integrated with OpenCV. | scikit-learn, OpenCV, NumPy |
-| [Sentiment Analysis of TikTok Reviews](https://github.com/mrcahyono265/xxx) | Scraped and processed public app reviews. Built sentiment classifier (Positive / Neutral / Negative) using TF-IDF and ML algorithms. | NLP, scikit-learn, Pandas |
-| [Bank Transactions – Clustering & Risk Classification](https://github.com/mrcahyono265/xxx) | Performed customer segmentation using clustering; developed classification model for risk-score prediction. | scikit-learn, Pandas, Matplotlib |
-| [Irrigation Time-Series Prediction + TFLite](https://github.com/mrcahyono265/xxx) | Built LSTM-based time-series model to predict soil moisture and irrigation actions. Exported to TFLite for embedded deployment. | TensorFlow, Time-Series, TFLite |
-| [Python Mini Project](https://github.com/mrcahyono265/xxx) | Created mini-projects (Tic-Tac-Toe, Hangman, RPS, number guessing) to strengthen algorithmic thinking. | Python |
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-### Robotics & Internet of Things
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Smart Irrigation System (ESP32 + Cloud IoT)** | Built an automated irrigation system using ESP32, soil moisture & DHT sensors, and cloud integration. Demonstrates practical IoT deployment and ability to convert ML time-series models to TFLite for edge use. | ESP32, MicroPython/C++, Sensors, MQTT/HTTP, TFLite |
-| **Soccerbot – Autonomous Wheeled Robot** | Developed a wheeled soccer robot prototype with motor drivers, PID tuning, and sensor integration. Foundation for future ML-based control systems and computer vision in robotics. | Arduino/ESP32, Motor Drivers, PID Control, Sensors |
-| **Smart Car (Obstacle Avoidance & Line Tracking)** | Designed and implemented a smart robotic car with ultrasonic obstacle avoidance, IR line tracking, and modular firmware supporting future AI enhancements. | Arduino/ESP32, Ultrasonic Sensor, IR Sensor |
-| **Smart Home Automation System** | Built a multi-device smart home system controlling lights, fans, and appliances via ESP32 and mobile interface. Demonstrates embedded control, networking, and cloud connectivity. | ESP32, Relays, Blynk/MQTT, MicroPython |
----
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### Tech Stack
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-#### Machine Learning & AI Engineering
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white?style=for-the-badge&logo=opencv&logoColor=white) ![tqdm](https://img.shields.io/badge/tqdm-007A00?style=for-the-badge&logo=tqdm&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-#### Data Annotation & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=data%20gretchen&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-36A2EB?style=for-the-badge&logo=Roboflow&logoColor=white)
-
-#### Robotics & Internet of Things
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32-E65030?style=for-the-badge&logo=espressif&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-2A4944?style=for-the-badge&logo=kicad&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-007FFF?style=for-the-badge&logo=internetofthings&logoColor=white)
-
-#### Workflow & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23CB3716.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrcahyono265&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcahyono265&layout=compact&theme=transparent" height="150" />
 </p>
 
 ---
 
-### Connect With Me
-<p align="center">
-  <a href="mailto:mohammadridhocahyono265@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-ridho-cahyono-a89848372">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/mrcahyono265">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.instagram.com/mohammadridhocahyono265/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/MohammadRi96178">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@mohammad.ridho.ca">
-    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
+## 📡 Internet of Things
+
+<p>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+
 </p>
 
-<p align="center">✨ “Blending Data, Code, and Hardware — one project at a time.” ✨</p>
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project                    | Description                                                                 | Tech Stack                               |
+| -------------------------- | --------------------------------------------------------------------------- | ---------------------------------------- |
+| 🚀 TeachLogs               | Teaching activity management system for tutoring institutions and educators | Laravel • TailwindCSS • AlpineJS • MySQL |
+| 🍔 BW Food                 | Digital platform concept for culinary and food businesses                   | Laravel • TailwindCSS • MySQL            |
+| 🎓 LearnEvent              | Online learning platform integrated with Zoom-based learning activities     | Laravel • TailwindCSS • MySQL            |
+| ✋ Hand Gesture Recognition | Real-time hand gesture classification using computer vision techniques      | Python • OpenCV • Scikit-Learn           |
+| 😊 Sentiment Analysis      | Sentiment classification using public review datasets                       | Python • Pandas • Scikit-Learn           |
+| 🌱 Smart Garden IoT        | IoT-based monitoring and automation project for smart agriculture           | ESP32 • Sensors • IoT Platform           |
+
+---
+
+# 💼 Experience Highlights
+
+## 👨‍🔧 Head of IT Workshop
+
+Led technology support, troubleshooting, maintenance, and technical service activities for more than two years.
+
+### Key Contributions
+
+* Technical support and troubleshooting
+* Hardware and software maintenance
+* Workshop operations and coordination
+* Team leadership and mentoring
+
+---
+
+## 💡 Head of Entrepreneurship Division
+
+Managed entrepreneurship-related programs and initiatives within the Informatics Student Association.
+
+### Key Contributions
+
+* Program planning
+* Team coordination
+* Innovation initiatives
+* Organizational development
+
+---
+
+## 🚀 Innovation & Development Staff (U3)
+
+Participated in developing technology-based innovation projects and applied technology solutions.
+
+### Key Contributions
+
+* Technology innovation projects
+* Applied technology implementation
+* Product development support
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrcahyono265&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcahyono265&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mrcahyono265&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrcahyono265&theme=tokyo-night" />
+
+</div>
+
+---
+
+# 💭 Philosophy
+
+> Technology should not only work properly, but also create meaningful impact for the people and organizations that use it.
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+### 🌐 Portfolio
+
+https://mridhocahyono.rf.gd
+
+### 💻 GitHub
+
+https://github.com/mrcahyono265
+
+### 💼 LinkedIn
+
+https://linkedin.com/in/m-ridho-cahyono
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+Always open to collaboration, learning opportunities, and technology discussions.
+
+</div>
